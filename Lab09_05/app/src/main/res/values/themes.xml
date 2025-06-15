@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Lab09_05" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Purple ActionBar -->
+        <item name="colorPrimary">#9C27B0</item> <!-- Purple 500 -->
+        <item name="colorPrimaryDark">#7B1FA2</item> <!-- Darker Purple -->
+        <item name="colorAccent">#E040FB</item> <!-- Accent Purple -->
+
+    </style>
+    <style name="Theme.Lab09_05" parent="Base.Theme.Lab09_05" />
+</resources>

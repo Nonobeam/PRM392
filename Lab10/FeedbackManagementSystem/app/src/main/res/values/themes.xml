@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FeedbackManagementSystem" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#9C27B0</item> <!-- Purple 500 -->
+        <item name="colorPrimaryDark">#7B1FA2</item> <!-- Darker Purple -->
+        <item name="colorAccent">#E040FB</item> <!-- Accent Purple -->
+    </style>
+
+    <style name="Theme.FeedbackManagementSystem" parent="Base.Theme.FeedbackManagementSystem" />
+</resources>
